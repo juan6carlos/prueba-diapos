@@ -1,2 +1,2 @@
 # prueba-diapos
-Repositorio de prueba para renseñar como generar quarto lides
+Repositorio de prueba para enseñar como generar quarto lides
